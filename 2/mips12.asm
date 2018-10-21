@@ -1,7 +1,5 @@
 .data
 sana: .asciiz "saippuakauppias"
-true: .word 1
-false: .word 0
 
 .text
 la t0, sana
